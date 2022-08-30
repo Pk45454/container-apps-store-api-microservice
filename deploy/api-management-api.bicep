@@ -29,7 +29,7 @@ var productsSet = [
     productName: 'product1'
     displayName: 'Product 1'
     productDescription: 'Some description of this product'
-    productTerms: 'Tems and conditions here for this product'
+    productTerms: 'Terms and conditions here for this product'
     isSubscriptionRequired: false
     // isApprovalRequired: false
     // subscriptionLimit: 1
